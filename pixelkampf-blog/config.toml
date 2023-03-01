@@ -1,0 +1,4 @@
+baseURL = 'https://pixelkampf.github.io/'
+languageCode = 'en-us'
+title = 'pixelkampf blog'
+theme='mini'

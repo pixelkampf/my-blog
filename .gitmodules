@@ -1,0 +1,7 @@
+[submodule "pixelkampf-blog/themes/mini"]
+	path = pixelkampf-blog/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "pixelkampf-blog/public"]
+	path = pixelkampf-blog/public
+	url = https://github.com/pixelkampf/pixelkampf.github.io.git
+	branch = master
