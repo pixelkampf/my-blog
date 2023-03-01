@@ -1,7 +1,7 @@
 ---
 title: "Hello!"
-date: 2023-03-01T13:18:20+01:00
+date: 2023-03-01T14:36:34+01:00
 ---
-Recently, I had the idea to write some articles related to my experience as software developer and architect in a large software company. 
+Recently, I had the idea to write some articles and share my experiences as software developer and architect in a large software company. 
 
-Also, I might post some private stuff if I think it might be interesting to share. :wink:
+So, stay tuned for updates... :wink:
